@@ -3,11 +3,7 @@ int main(){
 	
 	int a, b, resultado;
 	char tipodeoperacao; // Cria uma string chamada "tipodeoperacao" //
-	tipodeoperacao = '+'; // Armazena o caracter "+" na string //
-	tipodeoperacao = '-'; // Armazena o caracter "-" na string //
-	tipodeoperacao = '*'; // Armazena o caracter "*" na string //
-	tipodeoperacao = '/'; // Armazena o caracter "/" na string //
-	
+
 	printf("Qual operacao deseja fazer?\n");
 	printf("+ para adicao\n- para subtracao\n* para multiplicacao\n/ para divisao\n\n");
 	scanf("%c", &tipodeoperacao); // Capta a entrada do usuario e associa a string "tipodeoperacao"
