@@ -1,9 +1,7 @@
 #include <stdio.h>
-#include "questaoum.h"
 
 int main(){
 int a, b, resultado	;
-
 
 printf("Digite dois numeros\n");
 scanf("%d %d", &a, &b);
