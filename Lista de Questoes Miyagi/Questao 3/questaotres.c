@@ -1,4 +1,4 @@
-int fatorial (int n){ // Criação da função fatorial //
+int fatorial (int n){ //Cria uma função chamada fatorial //
     int resultado = 1; // Declaração da variável 'resultado' iniciada com valor 1 //
 
     for(int i = 1; i <= n; i++){ // Laço de repetição: enquanto "i" for menor ou igual a "n", multiplica "resultado" por "i" e incrementa "i" a cada volta //
