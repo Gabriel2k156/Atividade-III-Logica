@@ -36,7 +36,7 @@ int main(){
 		printf("O resultado da divisao e %d", resultado);
 		break;	// Impede que o próximo case seja executado //
 
-		default: printf("Digite uma opcao valida\n");
+		default: printf("Digite uma opcao valida\n"); // Impede que o usuário insira algo que não está listado nas opções do menu //
 	}
 	
 	return 0;
