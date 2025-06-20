@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(){
-	float C, F; // C = Celsius, F = Fahrenheit//
+	float C, F; // Declaração de variáveis: C = Celsius, F = Fahrenheit//
 	
 	printf("Digite o valor em Celsius\n");
 	scanf("%f", &C); // Capta o valor em Celsius para conversão //
