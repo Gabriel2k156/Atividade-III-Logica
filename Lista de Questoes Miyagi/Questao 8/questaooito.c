@@ -4,3 +4,4 @@ int potencia(int base, int expoente){
         resultado *= base;
 }
 return resultado;
+}
